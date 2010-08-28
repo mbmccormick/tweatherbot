@@ -5,7 +5,7 @@ Twitter API integration delivering local weather reports throughout the day.
 
 REQUIREMENTS
 
-Twitter-weatherbot is a small Google AppEngine service that publishes local weather reports to Twitter. You can visit the live service on Google AppEngine here.
+tweatherbot is a small Google AppEngine service that publishes local weather reports to Twitter. You can visit the live service on Google AppEngine here.
 
 
 INSTALLATION
