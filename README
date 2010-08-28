@@ -12,14 +12,14 @@ INSTALLATION
 
 This service is designed to be run on the Google AppEngine development platform. The scripts and configuration files can only be run from a desktop environment through the use of the Google AppEngine SDK.
 
-Twitter account information, for the robots, and associated Weather Underground iCal feeds are stored in the GQL datastores on Google AppEngine. This allows for more robots to be added, without having to rebuild or modify the twitter-weatherbot service.
+Twitter account information, for the robots, and associated Weather Underground iCal feeds are stored in the GQL datastores on Google AppEngine. This allows for more robots to be added, without having to rebuild or modify the tweatherbot service.
 
 
 USAGE
 
 This service is self-sustaining, meaning that once the scripts and configuration files are loaded on the Google AppEngine servers, no additional maintenance or overhead is necessary.
 
-Twitter-weatherbot pings Weather Underground's iCal feeds for the latest forecasts and publishes new reports when an update is available.
+tweatherbot pings Weather Underground's iCal feeds for the latest forecasts and publishes new reports when an update is available.
 
 
 DISCLAIMER
