@@ -1,0 +1,5 @@
+cron:
+- description: twitter weather forecast update
+  url: /update
+  schedule: every 1 hours synchronized
+  
