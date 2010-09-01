@@ -24,7 +24,7 @@ tweatherbot pings Weather Underground's iCal feeds for the latest forecasts and 
 
 ## Disclaimer
 
-Use this service at your own risk. While these scripts has been tested thoroughly, on the above requirements, your mileage may vary. I take no responsibility for any harmful actions this service might cause.
+Use this service at your own risk. While this service has been tested thoroughly, on the above requirements, your mileage may vary. I take no responsibility for any harmful actions this service might cause.
 
 
 ## License
